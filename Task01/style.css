@@ -1,0 +1,18 @@
+@charset "utf-8;
+
+/* CSS Document*/
+
+body,ul,ol,li,p,h1,h2,h3,h4,h5,h6,form,table,td,img,div,dl,dt,dd,input{margin:-2px;padding:0px;}
+
+body{font-size: 20px;}
+
+img{border: none;}
+
+li{list-style:none;}
+
+input,select,textarea{outline: none;border: none;}<div class=" first line"> 
+
+textarea{resize: none;}
+
+a{text-decoration: none;}
+
