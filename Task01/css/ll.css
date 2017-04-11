@@ -1,0 +1,217 @@
+
+
+/*第一部分*/
+.header {
+    background: url(../images/34.jpg) top;
+    background-repeat: no-repeat; 
+    height: 240px;
+}
+
+/*第二部分*/
+
+
+.bar-box{
+	background-color: #006986;
+	margin:0px -15px;	
+		 
+}
+
+.navbar-header li a{
+	color: white;
+
+}
+
+.navbar-header li a:hover{
+	color:#006986;
+}
+
+.nav-stacked{
+	text-align: center;
+}
+
+.dropdown-menu li a{
+	color: white;
+}
+
+/*第三部分*/
+
+
+#left1{
+	background: url(../images/00.jpg) no-repeat;
+}
+
+ h1{
+	display: inline;
+	padding-left:35px;
+}
+
+.more{
+   background:url(../images/5.jpg) no-repeat;
+   width:80px; 
+   height: 45px;
+   float: right;
+   overflow: hidden;
+   margin-top:-8px;
+}
+
+.line{
+	border-top: 0.3em solid #006986;
+	margin-top: 10px;
+}
+
+.list{
+	margin-top: 5px;
+	overflow: hidden;
+	line-height: 100%;
+	
+}
+.list li{
+	background: url(../images/1.jpg) no-repeat left;
+	margin-left:-50px;
+	font-size: 10px;
+	margin-top:20px;
+	display: block;
+    white-space: nowrap;
+    line-height: 30px;
+}
+
+.list li a{
+	 
+	 font-size: 18px;
+	 font-family: Microsoft YaHei UI; 
+	 text-overflow: ellipsis; 
+	 display:inline-block;
+	 text-indent:1.5em;
+	 width: 85%;	 
+}
+
+.list li a:hover{
+	color: black;
+	font-weight: bold;
+
+}
+
+.list li span{
+	color: #0384a8;
+	white-space: nowrap;
+}
+
+#right1{
+	background:url(../images/2.jpg) no-repeat;
+}
+
+.col-lg-5{
+	height: 288px;
+	margin-top:10px;
+}
+
+#may{
+	border:1px solid black; 
+}
+	
+#myCarousel{
+	margin-top: 10px;
+}
+
+.small{
+	font-size: 15px;
+    margin-left: 10px;
+}
+
+.col-lg-7{
+	width: 100%;
+	float: right;
+}
+
+
+.col-lg-7 h3{
+	text-align: center; 
+}
+
+.col-lg-7 p{
+	text-indent:2em;
+
+}
+
+
+#left2{
+	background: url(../images/44.jpg) no-repeat;
+	height: 400px;	
+}
+
+#center{
+  height: 400px;	
+}
+
+#right2{
+    margin-top: 10px;
+	border: 2px solid gray;
+	height: 400px;
+	padding-right: 0px;
+	padding-left:0px;
+}
+
+#right2 h1{
+	color: #0384a8;
+	
+	
+}
+
+.mymy{
+	position:fixed;
+	
+}
+
+h1 img{
+	margin-left: -30px;
+}
+
+#right2 ul{
+	list-style:none; 
+	margin-top: 10px;
+	font-weight: bold;
+}
+
+#right2 ul li{
+	margin-left: -40px;
+	height: 60px;
+}
+
+#right2 ul li a{
+	font-size:0.5em;
+	display:block;
+	padding-top: 10px;
+	text-align: center;
+
+}
+
+
+/*第四部分*/
+
+.footer{
+	height: 139px;
+	background-color: #006986;
+	text-align: center;
+}
+
+
+.last li{
+	list-style: none;
+    margin-top: 8px;
+    color:white;
+    font-size: 17px;
+}
+
+@media (min-width: 1200px)
+.nav-container {
+    /* width: 100%; */
+}
+@media (min-width: 992px)
+bootstrap.css [sm]:1994
+.nav-container {
+    /* width: 970px; */
+}
+@media (min-width: 768px)
+grid-framework.less:63
+.nav-container {
+    width: 750px;}

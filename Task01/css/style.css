@@ -54,12 +54,14 @@ a{text-decoration:none; }
 .guide ul li ul {
 	margin-left:-40px;
 	display: none;
-
+	position: absolute;
+    
 }
 
 .guide ul li ul li
 {
 	margin-top:1px;
+	float: none;
 }
 
 .guide ul li a:hover{
